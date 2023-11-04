@@ -9,9 +9,9 @@ POST {{url}}
 Content-Type: application/json
 
 {
-    "name": "Carlos",
-    "pass": "<img src=\"/\" onerror=\"alert('hacked')\" ></img>",
-    "email": "cmarroquin@miumg.edu.gt"
+    "name": "papa",
+    "pass": "1234",
+    "email": "papa@miumg.edu.gt"
 }
 
 ###
